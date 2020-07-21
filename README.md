@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## Hello everyone, my name is Kevin Do and I am a 23 year old Computer Science Student at California State University at Long Beach.
 <!--
 **Kevinyock/kevinyock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
