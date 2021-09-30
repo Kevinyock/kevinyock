@@ -15,7 +15,7 @@ Projects Currently Working on:
 
 Projects Currently on Hold:
 <ul>
-<li>Discord Bot Written in Python</li>
+<li>Discord Bot Written in Javascript</li>
 <li>Personal Game Template on Unity 2020 LTS</li>
 </ul>
 
