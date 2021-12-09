@@ -15,13 +15,15 @@ Projects Currently Working on:
 
 Projects Currently on Hold:
 <ul>
-<li>Discord Bot Written in Javascript</li>
 <li>Personal Game Template on Unity 2020 LTS</li>
 </ul>
 
 
+
 <!--
 **Kevinyock/kevinyock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<li>Discord Bot Written in Javascript</li>
 
 Here are some ideas to get you started:
 
