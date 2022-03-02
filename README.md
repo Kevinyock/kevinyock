@@ -9,12 +9,12 @@ I have currently experienced the following programming language
 
 Projects Currently Working on:
 <ul>
-<li>Hangman written in Java using Swing</li>
 <li>A couple of private repos for Personal Use</li>
 </ul>
 
 Projects Currently on Hold:
 <ul>
+<li>Hangman written in Java using Swing</li>
 <li>Personal Game Template on Unity 2020 LTS</li>
 </ul>
 
