@@ -3,11 +3,11 @@
 ## Projects Currently Working on:
 <ul>
 <li>A couple of private repos for Personal Use</li>
+<li>Hangman written in Java using Swing</li>
 </ul>
 
 ## Projects Currently on Hold:
 <ul>
-<li>Hangman written in Java using Swing</li>
 <li>Personal Game Template on Unity 2020 LTS</li>
 </ul>
 
