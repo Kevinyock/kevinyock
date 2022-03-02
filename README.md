@@ -12,8 +12,9 @@
 </ul>
 
 ## My Github Stats <br />
-![](https://github.com/Kevinyock/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/Kevinyock/github-stats/blob/master/generated/languages.svg)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Kevinyock&count_private=true&theme=tokyonight&showicons=true)]()
+<br />
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinyock&langs_count=5&theme=tokyonight)]()
 
 <!-- Coming Soon - TryHackMe -->
 
