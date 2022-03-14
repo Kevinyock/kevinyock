@@ -2,8 +2,9 @@
 
 ## Projects Currently Working on:
 <ul>
-<li>A couple of private repos for Personal Use</li>
-<li>Hangman written in Java using Swing</li>
+  <li>A couple of private repos for Personal Use</li>
+  <li>Hangman written in Java using Swing</li>
+  <li>A Personal Discord Bot in Replit in Python</li>
 </ul>
 
 ## Projects Currently on Hold:
