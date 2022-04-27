@@ -17,6 +17,8 @@
 <br />
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinyock&langs_count=5&theme=tokyonight)]()
 
+## My TryHackMe Badge <br />
+<img src="https://tryhackme-badges.s3.amazonaws.com/KevintheBorg.png" alt="TryHackMe">
 <!-- Coming Soon - TryHackMe -->
 
 <!--
