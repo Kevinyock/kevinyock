@@ -19,6 +19,7 @@
 
 ## My TryHackMe Badge <br />
 <img src="https://tryhackme-badges.s3.amazonaws.com/KevintheBorg.png" alt="TryHackMe">
+
 <!-- Coming Soon - TryHackMe -->
 
 <!--
