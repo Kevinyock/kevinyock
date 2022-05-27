@@ -5,11 +5,11 @@
   <li>A couple of private repos for Personal Use</li>
   <li>Hangman written in Java using Swing</li>
   <li>A Personal Discord Bot in Replit in Python</li>
+  <li>Personal Game Template on Unity 2020 LTS</li>
 </ul>
 
 ## Projects Currently on Hold:
 <ul>
-<li>Personal Game Template on Unity 2020 LTS</li>
 </ul>
 
 ## My Github Stats <br />
