@@ -1,4 +1,4 @@
-# Hello everyone, my name is Kevin Do and I am a 24 year old Computer Science Student at California State University at Long Beach.
+# Hello everyone, my name is Kevin Do and I am a 24 year old Computer Science Graduate at California State University at Long Beach.
 
 ## Projects Currently Working on:
 <ul>
