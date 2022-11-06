@@ -1,15 +1,14 @@
-# Hello everyone, my name is Kevin Do and I am a 24 year old Programmer that recently graduated from California State University at Long Beach.
+# Hello everyone, my name is Kevin Do and I am a 25 year old Programmer that recently graduated from California State University at Long Beach.
 
 ## Projects Currently Working on:
 <ul>
   <li>A couple of private repos for Personal Use</li>
-  <li>Hangman written in Java using Swing</li>
-  <li>A Personal Discord Bot in Replit in Python</li>
-  <li>Personal Game Template on Unity 2020 LTS</li>
 </ul>
 
 ## Projects Currently on Hold:
 <ul>
+  <li>A Personal Discord Bot in Replit in Python</li>
+  <li>Personal Game Template on Unity 2020 LTS</li>
 </ul>
 
 ## My Github Stats <br />
