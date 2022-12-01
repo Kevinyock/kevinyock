@@ -1,4 +1,4 @@
-# Hello everyone, my name is Kevin Do and I am a 25 year old Programmer that recently graduated from California State University at Long Beach.
+# Hello everyone, my name is Kevin and I am a 25 year old Programmer that recently graduated from California State University at Long Beach.
 
 ## Projects Currently Working on:
 <ul>
