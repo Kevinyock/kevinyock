@@ -1,10 +1,19 @@
-# Hello everyone, my name is Kevin and I am a 25 year old Programmer that recently graduated from California State University at Long Beach.
+# Hello everyone, my name is Kevin and I am a Software Engineer.
 
 ## Projects Currently Working on:
 <ul>
+  
+  <li>Github Action Template </li>
+  <li>Gitlab Action Template</li>
+  
   <li>A couple of private repos for Personal Use</li>
 </ul>
 
+---
+Here are some that could be of your interest
+
+[VRChat Content Creation Documentation](https://github.com/Kevinyock/VRChat-Content-Creation-Guide)
+  
 ## Projects Currently on Hold:
 <ul>
   <li>A Personal Discord Bot in Replit in Python</li>
