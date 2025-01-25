@@ -3,8 +3,9 @@
 ## Projects Currently Working on:
 <ul>
   
-  <li>Github Action Template </li>
+  <li>Github Action Template</li>
   <li>Gitlab Action Template</li>
+  <li>A BlueSky Discord Bot with a pending name</li>
   
   <li>A couple of private repos for Personal Use</li>
 </ul>
